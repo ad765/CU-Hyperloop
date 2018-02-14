@@ -1,0 +1,61 @@
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'H1B-M-8N-S316:1'
+Constraint Name: Custom:17
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'EH40 Solenoid:1'
+Constraint Name: Custom:18
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'EH40 Solenoid:1'
+Constraint Name: Custom:19
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'H1B-M-8N-S316:2'
+Constraint Name: Custom:20
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'EH40 Solenoid:1'
+Constraint Name: Custom:21
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'H1B-M-8N-S316:2'
+Constraint Name: Custom:22
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'EH40 Solenoid:2'
+Constraint Name: Custom:24
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'EH40 Solenoid:2'
+Constraint Name: Custom:26
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'H2B-M-12N-S316:2'
+Constraint Name: Custom:31
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'H2B-M-12N-S316:2'
+Constraint Name: Custom:32
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'H2B-M-12N-S316:1'
+Constraint Name: Custom:33
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'H2B-M-12N-S316:1'
+Constraint Name: Custom:34
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'H2B-M-12N-S316:1'
+Constraint Name: Custom:35
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'H1B-M-8N-S316:1'
+Constraint Name: Custom:36
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Tube & Pipe Runs 01/Run04', 'H1B-M-8N-S316:1'
+Constraint Name: Custom:37
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+
