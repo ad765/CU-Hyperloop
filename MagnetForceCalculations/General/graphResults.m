@@ -1,5 +1,5 @@
 upperBound = 0.010;
-lowerBound = 0.001
+lowerBound = 0.001;
 
 x = linspace(upperBound, lowerBound);
 y = [];

@@ -1,8 +1,7 @@
 function [lateralForce] = computeLateralForce(airGap)
 
 %i-beam constants
-alumResistivity = 3.99e-006; %ohm-cm
-alumResistivity = (100)*alumResistivity; %ohm-m
+alumResistivity = 100 * (3.99e-006); %ohm-m
 alumConducitivity = 1/alumResistivity; %S/m
 iBeamThick = 0.313*(0.0254); %meters
 %relative permeability
